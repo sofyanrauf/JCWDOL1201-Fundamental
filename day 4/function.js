@@ -1,4 +1,21 @@
+//pengertian funtion
+// function itu adalah  sub program yang bisa dipanggil oleh codingan yang lainn
+// -cukup buat sekali aja, cuma valuenya yang akan berubah-ubah
+// -karena bisa digunakan berkali-kali jadi disebut (re-useable)
+// funtion :
+// "delcaration" = 
+
+function persegi (15) {
+    return angka*angka;
+}
+
+// return => mengahsilkan 
+"expression"
+
+
 //delcaration function
+
+
 
 function square(number) {
   //task dari function square
